@@ -7,14 +7,14 @@
 
 - 💬 Ask me about **Machine learning, Deep learning,Generative Ai**
 
-- ### Tech Stack & Tools 🛠
+### Tech Stack & Tools 🛠
 
 <div>
   <img src="https://skillicons.dev/icons?i=python,java,mysql,aws,flask,opencv,pytorch,tensorflow,sklearn,docker"/>
 </div>
 
 ### Analytics ⚙️
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=aaditya1612&langs_count=8&theme=radical&layout=compact)
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ashu3984&langs_count=8&theme=radical&layout=compact)
 
 ### :fire: My Stats :
 
