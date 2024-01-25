@@ -27,7 +27,7 @@
 <a href="https://linkedin.com/in/ashutos-sahoo-08b04624b"><img src="https://img.shields.io/badge/-ashutos_sahoo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ashutossahoo3984@gmail.com"><img src="https://img.shields.io/badge/-ashutossahoo3984@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/_a__s__h_u/"><img src="https://img.shields.io/badge/-@_a__s__h_u-D14836?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="[https://img.shields.io/badge/any_text-you_like-blue](https://kaggle.com/ashutossahoo)">
+<a href="https://kaggle.com/ashutossahoo">
   <img src="https://img.shields.io/badge/-ashu-0077B5?style=flat&logo=kaggle&logoColor=white"/>
 </a>
 
