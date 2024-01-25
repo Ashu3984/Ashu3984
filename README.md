@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="800" src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png">
+<img align="right" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png">
 <h1 align="center">Hi 👋, I'm Ashutos sahoo</h1>
 <h3 align="center">🤖 AI & ML Innovator</h3>
 - 🌱 I’m currently learning **Generative Ai**
