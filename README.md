@@ -1,11 +1,18 @@
 <img align="right" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png">
 <h1 align="center">Hi 👋, I'm Ashutos sahoo</h1>
 <h3 align="center">🤖 AI & ML Innovator</h3>
-- 🌱 I’m currently learning **Generative Ai**
+- 🌱 I’m currently learning Generative AI
 
 - 👯 I’m looking to collaborate on **innovative AI projects**
 
 - 💬 Ask me about **Machine learning, Deep learning,Generative Ai**
+<p align="left">
+  <a href="https://github.com/anirudh6370/anirudh6370">
+    <img src="https://komarev.com/ghpvc/?username=anirudh6370" alt="page views" />
+  </a>
+<a href="https://github.com/anirudh6370?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/anirudh6370?style=flat&logo=github">
+</a>
 
 ### Tech Stack & Tools 🛠
 
