@@ -8,10 +8,10 @@
 - 💬 Ask me about **Machine learning, Deep learning,Generative Ai**
 <p align="left">
   <a href="https://github.com/ashu3984/ashu3984">
-    <img src="https://komarev.com/ghpvc/?username=aashu3984" alt="page views" />
+    <img src="https://komarev.com/ghpvc/?username=ashu3984" alt="page views" />
   </a>
 <a href="https://github.com/anirudh6370?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/anirudh6370?style=flat&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ashu3984?style=flat&logo=github">
 </a>
 
 ### Tech Stack & Tools 🛠
