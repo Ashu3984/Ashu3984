@@ -11,7 +11,7 @@
   <a href="https://github.com/ashu3984/ashu3984">
     <img src="https://komarev.com/ghpvc/?username=ashu3984" alt="page views" />
   </a>
-<a href="https://github.com/anirudh6370?tab=followers">
+<a href="https://github.com/ashu3984?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/ashu3984?style=flat&logo=github">
 </a>
 
