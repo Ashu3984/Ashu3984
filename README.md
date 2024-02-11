@@ -14,8 +14,8 @@
 <a href="https://github.com/ashu3984?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/ashu3984?style=flat&logo=github">
 </a>
-<!-- <a {href="https://drive.google.com/file/d/1kMpP06uQpEjS2SrzQh1U5Bjr31GgsbEr/view?usp=sharing">}</a> -->
-<a {Resume \href = https://huggingface.co/ashu3984/PHYSIGEN-AI-Mistral7B>}</a>
+
+[Resume](https://drive.google.com/file/d/1kMpP06uQpEjS2SrzQh1U5Bjr31GgsbEr/view?usp=sharing)
 
 ### Tech Stack & Tools 🛠
 
