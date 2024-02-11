@@ -7,6 +7,9 @@
 - 👯 I’m looking to collaborate on **innovative AI projects**
 
 - 💬 Ask me about **Machine learning, Deep learning,Generative Ai**
+
+  [Resume](https://drive.google.com/file/d/1kMpP06uQpEjS2SrzQh1U5Bjr31GgsbEr/view?usp=sharing)
+  
 <p align="left">
   <a href="https://github.com/ashu3984/ashu3984">
     <img src="https://komarev.com/ghpvc/?username=ashu3984" alt="page views" />
@@ -15,7 +18,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/ashu3984?style=flat&logo=github">
 </a>
 
-[Resume](https://drive.google.com/file/d/1kMpP06uQpEjS2SrzQh1U5Bjr31GgsbEr/view?usp=sharing)
+
 
 ### Tech Stack & Tools 🛠
 
