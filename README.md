@@ -14,6 +14,8 @@
 <a href="https://github.com/ashu3984?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/ashu3984?style=flat&logo=github">
 </a>
+<!-- <a {href="https://drive.google.com/file/d/1kMpP06uQpEjS2SrzQh1U5Bjr31GgsbEr/view?usp=sharing">}</a> -->
+<a {Resume \href = https://huggingface.co/ashu3984/PHYSIGEN-AI-Mistral7B>}</a>
 
 ### Tech Stack & Tools 🛠
 
@@ -31,7 +33,7 @@
 
 ### Let's connect ? 🤝
 
-<a href="mailto:YourEmail@gmail.com">![ashutossahoo3984@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:ashutossahoo3984@gmail.com">![ashutossahoo3984@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="<https://www.linkedin.com/in/ashutos-sahoo-08b04624b/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="<https://twitter.com/AshutosSahoo12>">![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="<https://www.instagram.com/_a__s__h_u/>">![Instagram](https://img.shields.io/badge/Instagram-D14860?style=for-the-badge&logo=Instagram&logoColor=white)</a>
