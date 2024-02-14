@@ -40,6 +40,3 @@
 <a href="<https://www.linkedin.com/in/ashutos-sahoo-08b04624b/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="<https://twitter.com/AshutosSahoo12>">![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="<https://www.instagram.com/_a__s__h_u/>">![Instagram](https://img.shields.io/badge/Instagram-D14860?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-
-<br />
-<br />
