@@ -26,9 +26,6 @@
   <img src="https://skillicons.dev/icons?i=python,java,mysql,aws,flask,opencv,pytorch,tensorflow,sklearn,docker"/>
 </div>
 
-### Analytics ⚙️
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ashu3984&langs_count=8&theme=radical&layout=compact)
-
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aaditya1612&theme=dark&background=090021)](https://git.io/streak-stats)
