@@ -27,6 +27,7 @@
 </div>
 
 ### :fire: My Stats :
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=himanshu9178&show_icons=true&locale=en&theme=dark" alt="ashu3984" /></p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aaditya1612&theme=dark&background=090021)](https://git.io/streak-stats)
 <br />
