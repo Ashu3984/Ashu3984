@@ -36,7 +36,6 @@
 
 ### Let's connect ? 🤝
 
-<a href="mailto:ashutossahoo3984@gmail.com">![ashutossahoo3984@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="<https://www.linkedin.com/in/ashutos-sahoo-08b04624b/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="<https://twitter.com/AshutosSahoo12>">![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-<a href="<https://www.instagram.com/_a__s__h_u/>">![Instagram](https://img.shields.io/badge/Instagram-D14860?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<div> <a href="https://twitter.com/AshutosSahoo12" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ashutos-sahoo-08b04624b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/_a__s__h_u/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
