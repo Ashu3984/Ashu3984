@@ -26,11 +26,13 @@
   <img src="https://skillicons.dev/icons?i=python,java,mysql,aws,flask,opencv,pytorch,tensorflow,sklearn,docker"/>
 </div>
 
-### :fire: My Stats :
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ashu3984&show_icons=true&locale=en&theme=dark" alt="ashu3984" /></p>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aaditya1612&theme=dark&background=090021)](https://git.io/streak-stats)
-<br />
+### ⚙️ &nbsp;My GitHub Statistics
+<p align="center">
+  <a href="https://github.com/ashu3984">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashu3984&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashu3984&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
 ### Let's connect ? 🤝
 
