@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Machine learning, Deep learning,Generative Ai**
 
-  [Resume](https://drive.google.com/drive/folders/1DkhL6xkJpRQQFtAQvc_wkX5-aX2McXy1)
+  [Resume](https://drive.google.com/file/d/1VfMGOZyvg9kAVFDKRTVwXqmC6w7J4grh/view?usp=sharing)
   
 <p align="left">
   <a href="https://github.com/ashu3984/ashu3984">
